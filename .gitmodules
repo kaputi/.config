@@ -10,3 +10,6 @@
 [submodule "awesome"]
 	path = awesome
 	url = https://github.com/kaputi/awesome
+[submodule "newvim"]
+	path = newvim
+	url = git@github.com:kaputi/newvim.git
