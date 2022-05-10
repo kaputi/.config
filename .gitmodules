@@ -1,3 +1,12 @@
 [submodule "ranger/plugins/ranger_devicons"]
 	path = ranger/plugins/ranger_devicons
 	url = https://github.com/alexanderjeurissen/ranger_devicons
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/kaputi/nvim-base-config
+[submodule "i3"]
+	path = i3
+	url = https://github.com/kaputi/i3
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/kaputi/awesome
